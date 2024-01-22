@@ -8,16 +8,16 @@
 .Giglabz{
    
     width: 300px ;
-    height: 600px;
+    height: 550px;
     color: white;
     margin-top: 30px;
-    background-color:#2d324f;
+    background-color:indigo;
     text-align: center;
  }
  .Candidate{
     background-color: #f9f9f9;
     margin-top: 50px;
-    height: 600px;
+    height: 550px;
     width: 900px;
     margin-top: 29px
  }
@@ -46,7 +46,10 @@
  button{
      align-items:center;
      margin-left: 150px;
-     margin-top: 50px;
+     margin-top: 20px;
      width: 75% ;
-     background-color:#2d324f ;
+     background-color:indigo ;
+ }
+ .button:hover{
+    background-color: rgb(103, 1, 175);
  }
