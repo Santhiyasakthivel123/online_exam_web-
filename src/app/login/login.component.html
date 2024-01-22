@@ -1,59 +1,51 @@
- <div class="sec">
-
-<div class="container"> 
+<div class="sec">
+  <div class="container">
     <div class="row">
       <div class="col-md-4">
-        <h1 style="margin-top: 50%;"> Giglabz</h1>
+        <h1 style="margin-top: 50%">Giglabz</h1>
         <p>Powering work in the virtual age</p>
         <h2>...</h2>
       </div>
       <div class="col-md-7">
         <div class="alig">
-            <form [formGroup]="loginForm">
-                <div>
-                <label style="padding:5px;margin-left: 50px;font-family: bold;">Enter Mail Id</label>
-                </div>
-                <div>
-                    <input type="text" style="width:300px;padding:5px;" placeholder="Enter Mail id" formControlName="mail">
-                </div>
-                <div>   
-                <label style="padding:5px;margin-left: 50px;">Password</label>
-                </div>
-                <div>
-                <input type="password" style="width:300px;padding:5px" placeholder="Enter password" formControlName="password">  
-                </div>
-                
-                <div>
-                <!-- <button (click)="login()">Login</button> -->
-                
-                <button type="submit" (click)="login()" class="btn btn-primary btn-block">Login</button>
-                </div>
-                </form>
-       
-
-
-
-
-
-
-
-
-
-
-
-
-                    </div>
+          <form [formGroup]="loginForm">
+            <div>
+              <label style="padding: 5px; margin-left: 50px; font-family: bold"
+                >Enter Mail Id</label
+              >
+            </div>
+            <div>
+              <input
+                type="text"
+                style="width: 300px; padding: 5px"
+                placeholder="Enter Mail id"
+                formControlName="mail"
+              />
+            </div>
+            <div>
+              <label style="padding: 5px; margin-left: 50px">Password</label>
+            </div>
+            <div>
+              <input
+                type="password"
+                style="width: 300px; padding: 5px"
+                placeholder="Enter password"
+                formControlName="password"
+              />
+            </div>
+            <div>
+              <!-- <button (click)="login()">Login</button> -->
+              <button
+                type="submit"
+                (click)="login()"
+                class="btn btn-primary btn-block"
+              >
+                Login
+              </button>
+            </div>
+          </form>
+        </div>
       </div>
-      </div>
-    
-
-
-
-
-
-
-
-
-
-
-
+    </div>
+  </div>
+</div>

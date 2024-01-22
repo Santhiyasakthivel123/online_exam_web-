@@ -1,55 +1,49 @@
-.sec{
-    height: 650px;
-    /* background-image: url("../assets/backgroundimage.jpg"); */
-    background-image: url("src\assets\backgroundimage.jpg");
-    background-size: 100%;
-    background-size: cover;
+.sec {
+  height: 650px; /* background-image: url("../assets/backgroundimage.jpg"); */
+  background-image: url("src\assets\backgroundimage.jpg");
+  background-size: 100%;
+  background-size: cover;
 }
-.Giglabz{
-   
-    width: 300px ;
-    height: 550px;
-    color: white;
-    margin-top: 30px;
-    background-color:indigo;
-    text-align: center;
- }
- .Candidate{
-    background-color: #f9f9f9;
-    margin-top: 50px;
-    height: 550px;
-    width: 900px;
-    margin-top: 29px
- }
- .register form .user-detail{
-     display: flex;
-     flex-wrap: wrap;
-     justify-content: space-between;
-    
-     
-    
- }
- form .user-detail .input-box{
-     width: calc(100% / 2 - 20px);
- 
- }
- .user-detail .input-box input{
-     height: 45px;
-     width: 75%;
-     outline: none;
-     border-radius: 2px;
-     border: 1px solid #ccc;
-     padding-left: 15px;
-     margin-left: 100px;
-     margin-top: 20px;
- }
- button{
-     align-items:center;
-     margin-left: 150px;
-     margin-top: 20px;
-     width: 75% ;
-     background-color:indigo ;
- }
- .button:hover{
-    background-color: rgb(103, 1, 175);
- }
+.Giglabz {
+  width: 300px;
+  height: 550px;
+  color: white;
+  margin-top: 30px;
+  background-color: indigo;
+  text-align: center;
+}
+.Candidate {
+  background-color: #f9f9f9;
+  margin-top: 50px;
+  height: 550px;
+  width: 900px;
+  margin-top: 29px;
+}
+.register form .user-detail {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+form .user-detail .input-box {
+  width: calc(100% / 2 - 20px);
+}
+.user-detail .input-box input {
+  height: 45px;
+  width: 75%;
+  outline: none;
+  border-radius: 2px;
+  border: 1px solid #ccc;
+  padding-left: 15px;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+button {
+  align-items: center;
+  margin-left: 150px;
+  margin-top: 20px;
+  width: 75%;
+  background-color: indigo;
+}
+.button:hover {
+  background-color: rgb(103, 1, 175);
+}

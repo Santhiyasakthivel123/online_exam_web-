@@ -1,45 +1,39 @@
-.sec{
-    height: 650px;
-    /* background-image: url("../assets/backgroundimage.jpg"); */
-    background-image: url("src\assets\backgroundimage.jpg");
-    background-size: 100%;
-    background-size: cover;
+.sec {
+  height: 650px; /* background-image: url("../assets/backgroundimage.jpg"); */
+  background-image: url("src\assets\backgroundimage.jpg");
+  background-size: 100%;
+  background-size: cover;
 }
-
-
-.col-md-4{
-    background-color: indigo;
-    color:aliceblue;
-    height:400px;
-    width:275px;
-    text-align: center;
-    margin-top: 50px;
+.col-md-4 {
+  background-color: indigo;
+  color: aliceblue;
+  height: 400px;
+  width: 275px;
+  text-align: center;
+  margin-top: 50px;
 }
-.col-md-7{
-    margin-top: 100px;
-    background-color: #ccc;
-    height: 400px;
-    margin-top: 50px;
+.col-md-7 {
+  margin-top: 100px;
+  background-color: #ccc;
+  height: 400px;
+  margin-top: 50px;
 }
-.col-md-7 input{
-    background-color:aliceblue;
-    /* padding: 15px; */
-    width: 500px; 
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    outline: none;
-    height: 150px;
-    margin-top: 30px;
-    
+.col-md-7 input {
+  background-color: aliceblue; /* padding: 15px; */
+  width: 500px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+  height: 150px;
+  margin-top: 30px;
 }
 .btn-primary {
-    background-color: rgb(84, 42, 112); 
-    border-color: indigo; 
-    color: #fff; 
-    font-weight: bold; 
-     
-    font-size: 16px; 
-    border-radius: 5px; 
-    margin-left: 500px;
-    margin-top: 70px ;
-  }
+  background-color: rgb(84, 42, 112);
+  border-color: indigo;
+  color: #fff;
+  font-weight: bold;
+  font-size: 16px;
+  border-radius: 5px;
+  margin-left: 500px;
+  margin-top: 70px;
+}
