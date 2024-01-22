@@ -1,0 +1,59 @@
+{
+    "post": [
+      {
+        "id": "3f80"
+      },
+      {
+        "id": "ef23",
+        "name": "santhiya",
+        "number": 456789012,
+        "email": "santhiya@gmail.com",
+        "password": "santhiya@",
+        "experience": "2",
+        "linkedprofile": "santhiya",
+        "role": "developer",
+        "period": "2",
+        "skill": "angular",
+        "organitaion": "Tvm"
+      },
+      {
+        "id": "3cce",
+        "name": "Ranju",
+        "number": 45609876534,
+        "email": "ranju123@gmail.com",
+        "password": "ranju@123",
+        "experience": "2",
+        "linkedprofile": "Ranju",
+        "role": "java",
+        "period": "3",
+        "skill": "java",
+        "organitaion": "Tvm"
+      },
+      {
+        "id": "dc92",
+        "name": "Ram",
+        "number": 5678932,
+        "email": "ram@gmail.com",
+        "password": "Ram@123",
+        "experience": "2",
+        "linkedprofile": "Ram",
+        "role": "angular",
+        "period": "2",
+        "skill": "angular",
+        "organitaion": "HCl"
+      },
+      {
+        "id": "bc42",
+        "name": "santhiya",
+        "number": 567788,
+        "email": "sandy@gmail.com",
+        "password": "San",
+        "experience": "2",
+        "linkedprofile": "santhiya",
+        "role": "java",
+        "period": "2",
+        "skill": "java",
+        "organitaion": "tvm"
+      }
+    ]
+  }
